@@ -1,0 +1,15 @@
+/Users/anyar/Projects/BoardGameSystem/BoardGameSystem/bin/Debug/net6.0/BoardGameSystem
+/Users/anyar/Projects/BoardGameSystem/BoardGameSystem/bin/Debug/net6.0/BoardGameSystem.deps.json
+/Users/anyar/Projects/BoardGameSystem/BoardGameSystem/bin/Debug/net6.0/BoardGameSystem.runtimeconfig.json
+/Users/anyar/Projects/BoardGameSystem/BoardGameSystem/bin/Debug/net6.0/BoardGameSystem.dll
+/Users/anyar/Projects/BoardGameSystem/BoardGameSystem/bin/Debug/net6.0/BoardGameSystem.pdb
+/Users/anyar/Projects/BoardGameSystem/BoardGameSystem/obj/Debug/net6.0/BoardGameSystem.csproj.AssemblyReference.cache
+/Users/anyar/Projects/BoardGameSystem/BoardGameSystem/obj/Debug/net6.0/BoardGameSystem.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anyar/Projects/BoardGameSystem/BoardGameSystem/obj/Debug/net6.0/BoardGameSystem.AssemblyInfoInputs.cache
+/Users/anyar/Projects/BoardGameSystem/BoardGameSystem/obj/Debug/net6.0/BoardGameSystem.AssemblyInfo.cs
+/Users/anyar/Projects/BoardGameSystem/BoardGameSystem/obj/Debug/net6.0/BoardGameSystem.csproj.CoreCompileInputs.cache
+/Users/anyar/Projects/BoardGameSystem/BoardGameSystem/obj/Debug/net6.0/BoardGameSystem.dll
+/Users/anyar/Projects/BoardGameSystem/BoardGameSystem/obj/Debug/net6.0/refint/BoardGameSystem.dll
+/Users/anyar/Projects/BoardGameSystem/BoardGameSystem/obj/Debug/net6.0/BoardGameSystem.pdb
+/Users/anyar/Projects/BoardGameSystem/BoardGameSystem/obj/Debug/net6.0/BoardGameSystem.genruntimeconfig.cache
+/Users/anyar/Projects/BoardGameSystem/BoardGameSystem/obj/Debug/net6.0/ref/BoardGameSystem.dll
